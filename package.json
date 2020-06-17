@@ -1,0 +1,23 @@
+{
+  "name": "webp-sample-image-server",
+  "author": {
+    "name": "Tufan Tunç",
+    "url": "https://tufantunc.com",
+    "email": "tufan.tunc.91@gmail.com"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "browserslist-useragent": "^3.0.3",
+    "express": "^4.17.1",
+    "express-useragent": "^1.0.13"
+  },
+  "browserslist": [
+    "Edge > 17",
+    "Firefox > 64",
+    "Chrome > 31",
+    "Opera > 18",
+    "QQAndroid > 4.1"
+  ]
+}
